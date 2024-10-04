@@ -132,6 +132,7 @@ grid-column: 2; /* Positions blue box on the right side */
     padding: 20px;
     text-decoration: none;
     transition: background-color 0.5s, color 0.5s;
+	
 }
 
 #transition-section .box a:hover {
